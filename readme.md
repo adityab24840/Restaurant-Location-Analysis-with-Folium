@@ -74,9 +74,6 @@ d = distance(12.9703944526, 77.6447132975, 12.9732913, 77.6404672)
 print("The Distance is= ", d, 'kilometer')
 ```
 
-Certainly! Continuing from where we left off:
-
-```markdown
 ## 4. Plotting Spatial Data on Maps <a name="plotting-spatial-data-on-maps"></a>
 
 This section involves plotting your geographical coordinates on a map. The user's coordinates are plotted on the map.
